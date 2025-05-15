@@ -47,8 +47,9 @@
 ---
 
 ## 🖼️ Screenshots & Demo 
+""Look Here"": (#)
 
-**▶️ Demo**: [Preview Dashboard](#) *()*  
+**▶️ Demo**: [Preview Dashboard](#https://github.com/Noman12009/Sales-Analysis-Power-BI-/blob/main/Project.pbix) 
 
     
 
